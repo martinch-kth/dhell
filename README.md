@@ -14,9 +14,6 @@ https://ci.inria.fr/stamp/buildStatus/icon?job=test
 
 
 
-
-
-
 DHELL
 Dummy HELLo world
 
