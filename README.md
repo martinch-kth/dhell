@@ -1,3 +1,22 @@
+https://ci.inria.fr/stamp/job/test/badge/icon
+
+https://ci.inria.fr/stamp/buildStatus/icon?job=test
+
+https://ci.inria.fr/stamp/buildStatus/icon?job=test
+
+[![Build Status](https://ci.inria.fr/stamp/buildStatus/icon?job=test)](https://ci.inria.fr/stamp/job/test/)
+
+[![Build Status](https://ci.inria.fr/stamp/buildStatus/icon?job=test)](https://ci.inria.fr/stamp/job/test/)
+
+<a href='https://ci.inria.fr/stamp/job/test/'><img src='https://ci.inria.fr/stamp/buildStatus/icon?job=test'></a>
+
+[[image:https://ci.inria.fr/stamp/buildStatus/icon?job=test>>https://ci.inria.fr/stamp/job/test/||target='__new']]
+
+
+
+
+
+
 DHELL
 Dummy HELLo world
 
