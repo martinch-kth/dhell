@@ -1,5 +1,5 @@
 
-![](http://130.237.59.170:8080/buildStatus/icon?job=test.png)
+![](http://130.237.59.170:8080/buildStatus/icon?job=test&.png)
 
 <a href='http://130.237.59.170:8080/job/test'><img src='http://130.237.59.170:8080/buildStatus/icon?job=test'></a>
 
