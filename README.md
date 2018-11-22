@@ -1,13 +1,5 @@
 
-![](http://130.237.59.170:8080/buildStatus/icon?job=test&.png)
-
-http://130.237.59.170:8080/buildStatus/icon?job=test.png
-
-http://130.237.59.170:8080/buildStatus/icon?job=test.gif
-
-<a href='http://130.237.59.170:8080/job/test'><img src='http://130.237.59.170:8080/buildStatus/icon?job=test'></a>
-
-[[image:http://130.237.59.170:8080/buildStatus/icon?job=test>>http://130.237.59.170:8080/job/test||target='__new']]
+[![Build Status](http://130.237.59.170:8080/buildStatus/icon?job=test)](http://130.237.59.170:8080/job/test)
 
 DHELL
 Dummy HELLo world
