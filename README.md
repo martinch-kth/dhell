@@ -1,5 +1,4 @@
-
-http://130.237.59.170:8080/buildStatus/icon?job=test
+[![Build Status](http://130.237.59.170:8080/buildStatus/icon?job=test)](http://130.237.59.170:8080/job/test/)
 
 DHELL
 Dummy HELLo world
