@@ -7,13 +7,6 @@
 
 
 
-
-
-
-
-
-
-
 DHELL
 Dummy HELLo world
 
